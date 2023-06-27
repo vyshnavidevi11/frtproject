@@ -1,4 +1,4 @@
-✨###Go Trip ✨
+###✨Go Trip ✨
 
 This is a web based application developed for to assist travelers in planning, organizing, and booking their trips. 
 
