@@ -5,7 +5,7 @@ This is a web based application developed for to assist travelers in planning, o
 ### This web based travelling application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+**Project Link** - https://wonderful-ocean-0dbb42300.3.azurestaticapps.net
 
 ## Azure Technologies used for this project
    1. Static Webapps
