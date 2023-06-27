@@ -6,6 +6,7 @@ This is a web based application developed for to assist travelers in planning, o
 
 
 **Project Link** - https://wonderful-ocean-0dbb42300.3.azurestaticapps.net
+**Project Demo Link** - https://youtu.be/osfNO-dqIzQ
 
 ## Azure Technologies used for this project
    1. Static Webapps
